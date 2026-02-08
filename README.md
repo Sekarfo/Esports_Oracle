@@ -47,4 +47,3 @@ streamlit run app.py
 
 ---
 
-**Would you like me to help you write the specific instructions for the "Usage" section?**
