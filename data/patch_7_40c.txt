@@ -1,0 +1,99 @@
+Dota 2 Gameplay Update 7.40c - Patch Notes
+ITEM UPDATES
+
+Khanda: Can now be disassembled. 
+
+Phylactery: All Attributes decreased 7 -> 6; Mana Regen decreased 2.5 -> 2.25. 
+
+HERO UPDATES
+
+Abaddon: Curse of Avernus: No longer applied by illusions. 
+
+Axe: Strength gain decreased 2.8 -> 2.7. Level 15 Talent: Battle Hunger DPS decreased +10 -> +8. 
+
+Batrider: Agility gain increased 1.8 -> 2.0; Damage gain per level increased 3.4 -> 3.5. 
+
+Bloodseeker: Bloodrage: Max Health DPS decreased 1.4% -> 1.2%. Level 10 Talent: +200 Health (was +175). Level 20 Talents: Agility decreased +20 -> +15; Rupture Cast Range decreased +425 -> +400. 
+
+Brewmaster: Liquid Courage (Aghanim's Shard): Max HP Regen increased 2% -> 2.5%. Drunken Brawler: Earth Brawler Armor increased 2/4/6/8 -> 3/5/7/9. 
+
+Broodmother: Spin Web: Enemy Restoration Reduction decreased 10/30/50/70% -> 10/25/40/55%; Max Charges decreased 4/6/8/10 -> 3/5/7/9. Incapacitating Bite: No longer applied by illusions. Talents: Lvl 15 Attack Bonus decreased +8 -> +6; Lvl 25 BAT Reduction (Insatiable Hunger) decreased 0.2s -> 0.15s. 
+
+Clinkz: Skeleton Walk: Building damage penalty increased 25% -> 75%; No longer upgraded by Scepter. Aghanim's Scepter now only provides Burning Army. Talents: Lvl 15 Attack Range decreased +60 -> +50; Lvl 25 Searing Arrows Multishot no longer applies to Skeletons. 
+
+
+Dark Seer: Base Armor increased by 1. 
+
+
+Doom: Infernal Blade: Mana Cost decreased 40 -> 35. 
+
+
+Drow Ranger: Level 25 Talent: Marksmanship Chance decreased +10% -> +8%. 
+
+
+Earthshaker: Fissure: Mana Cost decreased 120-135 -> 115-130. 
+
+Ember Spirit: Searing Chains: Duration decreased 1.5-3s -> 1.25-2.75s; DPS rescaled 50-110 -> 100 flat. 
+
+Grimstroke: Base damage increased by 1. Ink Swell: Cast Range increased 500-800 -> 650-800. Level 15 Talent: Ink Swell Movement Speed increased +12% -> +15%. 
+
+Gyrocopter: Base Attack Speed decreased 125 -> 115; Agility gain increased 3.2 -> 3.4. Level 25 Talent: Call Down CD Reduction increased 30s -> 40s. 
+
+
+Huskar: Berserker's Blood (Facet: Cauterize): Cooldown increased 50-20s -> 60-30s. 
+
+
+Jakiro: Base Intelligence decreased 26 -> 25. Ice Path: Duration decreased 3-4.5s -> 2.6-4.1s. 
+
+Largo: Added to Captains Mode. Intelligence gain increased 2.4 -> 2.6. Frogstomp: Damage increased 35-65 -> 36-72. Amphibian Rhapsody: Can be toggled while silenced; Radius increased 750 -> 800. 
+
+
+Legion Commander: Duel (Aghanim's Scepter): Duration decreased 5.5-6.5s -> 5-6s. 
+
+Lone Druid: Base Agility increased 20 -> 22. Savage Roar: Duration increased 0.8-2s -> 1.1-2s. Level 25 Talent: Slow Resistance (True Form) increased 60% -> 70%. Spirit Bear: Return channeled interrupted by roots/leashes. 
+
+Meepo: MegaMeepo: Poof damage factor per Meepo decreased 75% -> 50%. Talents: Lvl 10 Poof Damage decreased +50 -> +40; Lvl 20 Ransack Health Steal decreased +8 -> +7. 
+
+Monkey King: Jingu Mastery: Bonus Damage increased 30-165 -> 30-180. Level 10 Talent: Primal Spring Max Damage increased +85 -> +90. 
+
+
+Nature's Prophet: Nature's Call: Treant Damage increased 16-40 -> 16-43. 
+
+Pangolier: Base Strength increased 19 -> 20. Fortune Favors the Bold: Chance Reduction increased 40% -> 50%. Swashbuckle: Cooldown decreased 20-11s -> 19-10s. 
+
+
+Phantom Assassin: Level 10 Talent: Stifling Dagger CD Reduction increased 1.5s -> 2s. 
+
+Phantom Lancer: Illusory Armaments: Min Damage Lvl 1 decreased 18% -> 17%. Doppelganger: Mana Cost increased 50 -> 70. 
+
+
+Pudge: Meat Shield: Mana Cost increased 50-80 -> 65-80. 
+
+Ringmaster: Base Agility decreased 13 -> 11; Agility gain increased 1.4 -> 1.6. Whoopee Cushion (Facet): Radius increased 200 -> 250. 
+
+
+Rubick: Telekinesis (Facet): Cooldown decreased 23-14s -> 22-13s. 
+
+
+Shadow Demon: Disseminate (Facet: Promulgate): Health loss decreased 9-15% -> 9-12%. 
+
+Slardar: Strength gain decreased 3.6 -> 3.4. Level 15 Talent: Health decreased +300 -> +250. 
+
+Slark: Saltwater Shiv: Stack Restoration Steal rescaled 3-6% -> 2-8%; Stack Regen/Speed Steal increased 2-5 -> 2-8. 
+
+Spectre: Strength gain decreased 2.5 -> 2.4. Talents: Lvl 20 Health decreased +350 -> +325; Lvl 25 Illusion Damage decreased +20% -> +15%. 
+
+Terrorblade: Conjure Image: Mana Cost decreased 55-85 -> 50-80. Sunder: Cooldown decreased 120-40s -> 110-40s. Demon Zeal: No longer affects Reflection illusions. Level 15 Talent: Reflection Slow/Damage increased +10% -> +15%. 
+
+
+Tidehunter: Base Strength decreased 27 -> 26. 
+
+Timbersaw: Base Strength decreased 26 -> 23; Strength gain increased 3.5 -> 3.6. Level 15 Talent: Whirling Death Stat Loss decreased +2.5% -> +2%. 
+
+
+Treant Protector: Eyes in the Forest: Now provide 50g bounty when killed. 
+
+
+Ursa: Fury Swipes: Damage per attack decreased 13-37 -> 12-36. 
+
+Viper: Corrosive Skin: DPS rescaled 8-32 -> 10-25. Talents: Lvl 20 Predator Damage increased +0.25 -> +0.3; Lvl 20 Viper Strike DPS decreased +80 -> +70
